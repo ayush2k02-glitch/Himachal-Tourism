@@ -1,0 +1,729 @@
+[
+  {
+    "id": "h1",
+    "name": "Wildflower Palace",
+    "region": "shimla",
+    "location": "Chharabra, Shimla",
+    "rating": 4.9,
+    "price": 18500,
+    "image": "http://localhost:5000/uploads/hotel_h1_1780730469519.png",
+    "roomsAvailable": 5,
+    "totalRooms": 10,
+    "amenities": [
+      "WiFi",
+      "Spa",
+      "Pool",
+      "Mountain View",
+      "Restaurant"
+    ],
+    "description": "A luxury colonial-style retreat nestled high in pine and cedar forests, offering magnificent views of the snow-clad peaks."
+  },
+  {
+    "id": "h2",
+    "name": "Solang River Heights",
+    "region": "manali",
+    "location": "Solang Valley, Manali",
+    "rating": 4.8,
+    "price": 14200,
+    "image": "/src/assets/hotel_solang.png",
+    "roomsAvailable": 4,
+    "totalRooms": 8,
+    "amenities": [
+      "WiFi",
+      "Adventure Guide",
+      "Mountain View",
+      "Balcony",
+      "Restaurant"
+    ],
+    "description": "A premium alpine chalet perched beside the rushing river, perfect for adventure seekers who value luxury."
+  },
+  {
+    "id": "h3",
+    "name": "Spiti Oasis Retreat",
+    "region": "spiti",
+    "location": "Kaza, Spiti Valley",
+    "rating": 4.7,
+    "price": 9500,
+    "image": "/src/assets/hotel_spiti.png",
+    "roomsAvailable": 3,
+    "totalRooms": 6,
+    "amenities": [
+      "Stargazing Deck",
+      "Oxygen Kit",
+      "Local Cuisine",
+      "WiFi"
+    ],
+    "description": "An authentic, eco-friendly retreat constructed in traditional mud-brick style, offering comfortable sanctuary in the high-altitude cold desert."
+  },
+  {
+    "id": "h4",
+    "name": "Tirthan River Whispers",
+    "region": "tirthan",
+    "location": "Jibhi, Tirthan Valley",
+    "rating": 4.8,
+    "price": 11000,
+    "image": "/src/assets/hotel_tirthan.png",
+    "roomsAvailable": 2,
+    "totalRooms": 5,
+    "amenities": [
+      "WiFi",
+      "Trout Fishing",
+      "Riverside Garden",
+      "Fireplace"
+    ],
+    "description": "A cozy riverside wood-and-stone cottage offering deep peace, forest walks, and personal trout-fishing access."
+  },
+  {
+    "id": "h5",
+    "name": "Dhauladhar Vista Resort",
+    "region": "dharamshala",
+    "location": "McLeod Ganj, Dharamshala",
+    "rating": 4.6,
+    "price": 8900,
+    "image": "/src/assets/hotel_dharamshala.png",
+    "roomsAvailable": 2,
+    "totalRooms": 8,
+    "amenities": [
+      "WiFi",
+      "Yoga Deck",
+      "Spa",
+      "Mountain View"
+    ],
+    "description": "Unwind at this wellness-focused resort offering stunning panoramic views of the Dhauladhar range and daily yoga classes."
+  },
+  {
+    "id": "h6",
+    "name": "Kinner Kailash Cottages",
+    "region": "kinnaur",
+    "location": "Kalpa, Kinnaur",
+    "rating": 4.9,
+    "price": 12500,
+    "image": "/src/assets/hotel_kinnaur.png",
+    "roomsAvailable": 1,
+    "totalRooms": 4,
+    "amenities": [
+      "WiFi",
+      "Apple Orchard",
+      "Fireplace",
+      "Mountain View"
+    ],
+    "description": "Exquisite cottages facing the legendary Kinner Kailash peak, situated directly within lush apple orchards."
+  },
+  {
+    "id": "h7",
+    "name": "Barot Trout Heights Lodge",
+    "region": "mandi",
+    "location": "Barot Valley, Mandi",
+    "rating": 4.8,
+    "price": 8500,
+    "image": "/src/assets/hotel_barot.png",
+    "roomsAvailable": 3,
+    "totalRooms": 6,
+    "amenities": [
+      "WiFi",
+      "Trout Fishing",
+      "Riverside Garden",
+      "Fireplace"
+    ],
+    "description": "A quiet mountain retreat surrounded by tall cedar trees, featuring direct access to trout-fishing spots."
+  },
+  {
+    "id": "h8",
+    "name": "Chamba Palace Heritage",
+    "region": "chamba",
+    "location": "Chamba Town, Chamba",
+    "rating": 4.7,
+    "price": 9800,
+    "image": "/src/assets/hotel_chamba.png",
+    "roomsAvailable": 4,
+    "totalRooms": 8,
+    "amenities": [
+      "WiFi",
+      "Historic Carvings",
+      "Terrace Café",
+      "Restaurant"
+    ],
+    "description": "A beautifully restored royal residency showcasing classic Chamba timber architecture and traditional carvings."
+  },
+  {
+    "id": "h9",
+    "name": "Parvati Woods Glamping",
+    "region": "kasol",
+    "location": "Kasol, Parvati Valley",
+    "rating": 4.9,
+    "price": 7500,
+    "image": "/src/assets/hotel_kasol.png",
+    "roomsAvailable": 3,
+    "totalRooms": 5,
+    "amenities": [
+      "WiFi",
+      "Geodesic Dome",
+      "Campfire",
+      "Riverside Views"
+    ],
+    "description": "Premium geodesic dome tents perched high in pine woods, overlooking the white waters of the Parvati River."
+  },
+  {
+    "id": "h10",
+    "name": "Hatu Peak Alpine Resort",
+    "region": "shimla",
+    "location": "Narkanda, Shimla",
+    "rating": 4.8,
+    "price": 13500,
+    "image": "/src/assets/hotel_narkanda.png",
+    "roomsAvailable": 4,
+    "totalRooms": 8,
+    "amenities": [
+      "WiFi",
+      "Skiing Gear",
+      "Fireplace",
+      "Mountain View"
+    ],
+    "description": "Luxury alpine stone-and-wood resort in Narkanda with slanted shingle roofs and private balconies overlooking Hatu peak."
+  },
+  {
+    "id": "h11",
+    "name": "Jibhi Treehouse Eco-Resort",
+    "region": "tirthan",
+    "location": "Jibhi, Tirthan Valley",
+    "rating": 4.9,
+    "price": 15800,
+    "image": "/src/assets/hotel_jibhi_treehouse.png",
+    "roomsAvailable": 2,
+    "totalRooms": 4,
+    "amenities": [
+      "WiFi",
+      "Treehouse Cabin",
+      "Wood Fireplace",
+      "Forest Trail Access"
+    ],
+    "description": "A premium luxury wooden treehouse cabin suspended high in a dense pine forest, offering stunning mountain views and rustic peace."
+  },
+  {
+    "id": "h12",
+    "name": "Dalhousie Pine View Manor",
+    "region": "chamba",
+    "location": "Dalhousie, Chamba",
+    "rating": 4.8,
+    "price": 12200,
+    "image": "/src/assets/hotel_dalhousie_manor.png",
+    "roomsAvailable": 3,
+    "totalRooms": 6,
+    "amenities": [
+      "WiFi",
+      "Slate Roof Balcony",
+      "Historic Stone Architecture",
+      "Mountain Guide"
+    ],
+    "description": "A luxury heritage stone manor overlooking misty pine valleys, featuring colonial shingle architecture and panoramic views."
+  },
+  {
+    "id": "h13",
+    "name": "Rohtang Heights Dome Stay",
+    "region": "manali",
+    "location": "Solang Valley, Manali",
+    "rating": 4.9,
+    "price": 16500,
+    "image": "/src/assets/hotel_manali_dome.png",
+    "roomsAvailable": 3,
+    "totalRooms": 5,
+    "amenities": [
+      "WiFi",
+      "Geodesic Dome",
+      "Mountain View",
+      "Campfire",
+      "Adventure Guide"
+    ],
+    "description": "A premium geodesic dome tent stay nestled on a green hill, offering magnificent views of the snow-clad Rohtang peaks."
+  },
+  {
+    "id": "h14",
+    "name": "Mashobra Pine Forest Lodge",
+    "region": "shimla",
+    "location": "Mashobra, Shimla",
+    "rating": 4.8,
+    "price": 14500,
+    "image": "/src/assets/hotel_shimla_forest.png",
+    "roomsAvailable": 2,
+    "totalRooms": 6,
+    "amenities": [
+      "WiFi",
+      "Wood Fireplace",
+      "Forest Trail Access",
+      "Balcony"
+    ],
+    "description": "A luxury wooden forest lodge surrounded by tall pine trees, featuring cozy fire hearths and private balconies."
+  },
+  {
+    "id": "h15",
+    "name": "Dharamkot Art Homestay",
+    "region": "dharamshala",
+    "location": "Dharamkot, Dharamshala",
+    "rating": 4.7,
+    "price": 6800,
+    "image": "/src/assets/hotel_dharamshala_art.png",
+    "roomsAvailable": 4,
+    "totalRooms": 8,
+    "amenities": [
+      "WiFi",
+      "Art Studio Access",
+      "Mountain View",
+      "Library"
+    ],
+    "description": "An artistic, brick-walled homestay surrounded by oak trees, offering a peaceful library and climbing-vine balconies."
+  },
+  {
+    "id": "h16",
+    "name": "Langza Mudhouse Homestay",
+    "region": "spiti",
+    "location": "Langza, Spiti Valley",
+    "rating": 4.8,
+    "price": 5200,
+    "image": "/src/assets/hotel_spiti_mudhouse.png",
+    "roomsAvailable": 3,
+    "totalRooms": 5,
+    "amenities": [
+      "Oxygen Kit",
+      "Local Cuisine",
+      "Stargazing Deck",
+      "Fossil Tour Guide"
+    ],
+    "description": "A traditional mud-brick homestay in Spiti's fossil village Langza, featuring clay brick construction and high-altitude mountain views."
+  },
+  {
+    "id": "h17",
+    "name": "Tosh Village Wooden Cabin",
+    "region": "kasol",
+    "location": "Tosh, Parvati Valley",
+    "rating": 4.6,
+    "price": 4500,
+    "image": "/src/assets/hotel_tosh_cabin.png",
+    "roomsAvailable": 3,
+    "totalRooms": 6,
+    "amenities": [
+      "WiFi",
+      "Glacial Stream View",
+      "Wood Fireplace",
+      "Local Café Guide"
+    ],
+    "description": "A cozy, rustic wooden mountain cabin in Tosh, offering stunning ridge views of glacial streams and pine valleys."
+  },
+  {
+    "id": "h18",
+    "name": "Uhl River Riverside Camps",
+    "region": "mandi",
+    "location": "Barot Valley, Mandi",
+    "rating": 4.8,
+    "price": 5500,
+    "image": "/src/assets/hotel_barot_camps.png",
+    "roomsAvailable": 4,
+    "totalRooms": 10,
+    "amenities": [
+      "Campfire Site",
+      "Trout Fishing",
+      "Riverside Garden",
+      "Adventure Guide"
+    ],
+    "description": "Riverside dome camping on the grassy bank of Uhl River, featuring trout-fishing access and evening campfires."
+  },
+  {
+    "id": "h19",
+    "name": "Shimla Ridge View Castle",
+    "region": "shimla",
+    "location": "Mall Road, Shimla",
+    "rating": 4.9,
+    "price": 19500,
+    "image": "/src/assets/hotel_shimla_ridge.png",
+    "roomsAvailable": 3,
+    "totalRooms": 6,
+    "amenities": [
+      "WiFi",
+      "Terrace Café",
+      "Colonial Architecture",
+      "Mountain View"
+    ],
+    "description": "A luxury heritage stone castle near Mall Road, featuring grand colonial architecture and private flower terrace views."
+  },
+  {
+    "id": "h20",
+    "name": "Solang Glacial Chalet",
+    "region": "manali",
+    "location": "Solang Valley, Manali",
+    "rating": 4.9,
+    "price": 17800,
+    "image": "/src/assets/hotel_manali_glacial.png",
+    "roomsAvailable": 2,
+    "totalRooms": 5,
+    "amenities": [
+      "WiFi",
+      "Skiing Gear",
+      "Mountain View",
+      "Wood Fireplace",
+      "Balcony"
+    ],
+    "description": "A luxury wood-and-glass A-frame alpine chalet in Solang Valley, offering panoramic glacial peak views from glass walls."
+  },
+  {
+    "id": "h21",
+    "name": "Triund Mountain Dome Camp",
+    "region": "dharamshala",
+    "location": "Triund Ridge, Dharamshala",
+    "rating": 4.8,
+    "price": 7500,
+    "image": "/src/assets/hotel_triund_camp.png",
+    "roomsAvailable": 4,
+    "totalRooms": 8,
+    "amenities": [
+      "Campfire",
+      "Trekking Guide",
+      "Star Trails View",
+      "Meals Included"
+    ],
+    "description": "High-altitude luxury safari dome camps situated on the Triund Ridge directly below the giant Dhauladhar mountain face."
+  },
+  {
+    "id": "h22",
+    "name": "Kibber Canyon Mudhouse",
+    "region": "spiti",
+    "location": "Kibber, Spiti Valley",
+    "rating": 4.8,
+    "price": 6200,
+    "image": "/src/assets/hotel_kibber_mudhouse.png",
+    "roomsAvailable": 3,
+    "totalRooms": 6,
+    "amenities": [
+      "Oxygen Kit",
+      "Local Cuisine",
+      "Canyon View Deck",
+      "Wildlife Guide"
+    ],
+    "description": "A premium high-altitude mudhouse lodge in Kibber, featuring classic Tibetan window carvings facing deep mountain canyons."
+  },
+  {
+    "id": "h23",
+    "name": "Chalal Pine Riverside Lodge",
+    "region": "kasol",
+    "location": "Chalal, Parvati Valley",
+    "rating": 4.7,
+    "price": 5800,
+    "image": "/src/assets/hotel_chalal_riverside.png",
+    "roomsAvailable": 2,
+    "totalRooms": 5,
+    "amenities": [
+      "WiFi",
+      "Riverside Views",
+      "Geodesic Dome",
+      "Campfire"
+    ],
+    "description": "A luxury glass-and-wood cabin perched directly on the bank of the rushing Parvati River, surrounded by tall deodar woods."
+  },
+  {
+    "id": "h24",
+    "name": "GHNP Cedar Eco-Cabin",
+    "region": "tirthan",
+    "location": "Tirthan Valley, Jibhi",
+    "rating": 4.8,
+    "price": 8500,
+    "image": "/src/assets/hotel_ghnp_cabin.png",
+    "roomsAvailable": 3,
+    "totalRooms": 6,
+    "amenities": [
+      "WiFi",
+      "Trout Fishing",
+      "Forest Trail Access",
+      "Riverside Deck"
+    ],
+    "description": "An eco-friendly stone and cedar wood cabin inside the Great Himalayan National Park forest, situated right beside the roaring river."
+  },
+  {
+    "id": "h25",
+    "name": "Kufri Snow Vista Lodge",
+    "region": "shimla",
+    "location": "Kufri, Shimla",
+    "rating": 4.7,
+    "price": 8800,
+    "image": "/src/assets/narkanda_hatu.png",
+    "roomsAvailable": 4,
+    "totalRooms": 8,
+    "amenities": [
+      "WiFi",
+      "Yak Riding",
+      "Snow Skiing Access",
+      "Restaurant"
+    ],
+    "description": "A beautiful alpine lodge in Kufri offering panoramic views of snowy ridges and high-altitude coniferous forests."
+  },
+  {
+    "id": "h26",
+    "name": "Old Manali Woods Cabin",
+    "region": "manali",
+    "location": "Old Manali, Manali",
+    "rating": 4.8,
+    "price": 6500,
+    "image": "/src/assets/hadimba_temple.jpg",
+    "roomsAvailable": 3,
+    "totalRooms": 6,
+    "amenities": [
+      "WiFi",
+      "Stone Fireplace",
+      "Pine Woods Walk",
+      "Café Guide"
+    ],
+    "description": "A cozy, historic wooden cabin located deep in the pine woods near Hadimba Temple, with wood-fired hearths."
+  },
+  {
+    "id": "h27",
+    "name": "Shoja Hamlet Pine Retreat",
+    "region": "tirthan",
+    "location": "Shoja, Tirthan Valley",
+    "rating": 4.9,
+    "price": 7200,
+    "image": "/src/assets/shoja_hamlet.png",
+    "roomsAvailable": 2,
+    "totalRooms": 5,
+    "amenities": [
+      "WiFi",
+      "Pine Ridge Walks",
+      "Fireplace",
+      "Mountain View"
+    ],
+    "description": "Unwind in a quiet wooden hamlet surrounded by thick pine woods, offering panoramic views of the entire Tirthan Valley."
+  },
+  {
+    "id": "h28",
+    "name": "Palampur Tea Estate Lodge",
+    "region": "dharamshala",
+    "location": "Palampur, Dharamshala",
+    "rating": 4.7,
+    "price": 7800,
+    "image": "/src/assets/palampur_tea.png",
+    "roomsAvailable": 4,
+    "totalRooms": 8,
+    "amenities": [
+      "WiFi",
+      "Tea Plucking Access",
+      "Mountain View",
+      "Pottery Studio Tour"
+    ],
+    "description": "A premium boutique lodge situated in Palampur's lush tea gardens, offering guided tea-tasting sessions."
+  },
+  {
+    "id": "h29",
+    "name": "Rewalsar Lake View Homestay",
+    "region": "mandi",
+    "location": "Rewalsar, Mandi",
+    "rating": 4.6,
+    "price": 4200,
+    "image": "/src/assets/rewalsar_lake.png",
+    "roomsAvailable": 3,
+    "totalRooms": 6,
+    "amenities": [
+      "WiFi",
+      "Lake View Balcony",
+      "Tibetan Breakfast",
+      "Monastery Tour Guide"
+    ],
+    "description": "A peaceful homestay overlooking the sacred Rewalsar Lake, holy to Buddhists, Hindus, and Sikhs."
+  },
+  {
+    "id": "h30",
+    "name": "Jispa Riverside Dome Camps",
+    "region": "spiti",
+    "location": "Jispa, Spiti Valley",
+    "rating": 4.8,
+    "price": 9800,
+    "image": "/src/assets/jispa_lahaul.png",
+    "roomsAvailable": 4,
+    "totalRooms": 10,
+    "amenities": [
+      "Campfire Site",
+      "Riverside Garden",
+      "Oxygen Cylinder Access",
+      "Trekking Guide"
+    ],
+    "description": "High-altitude riverside dome camping in Jispa, Lahaul Valley, offering stone cottages and scenic star trail stargazing."
+  },
+  {
+    "id": "h31",
+    "name": "Sangla Apple Orchard Glamping",
+    "region": "kinnaur",
+    "location": "Sangla, Kinnaur",
+    "rating": 4.8,
+    "price": 8500,
+    "image": "/src/assets/sangla_valley.png",
+    "roomsAvailable": 2,
+    "totalRooms": 5,
+    "amenities": [
+      "WiFi",
+      "Apple Orchard",
+      "Campfire",
+      "Mountain View"
+    ],
+    "description": "A premium glamping site set directly within a golden apple orchard in Sangla Valley, facing snow-capped peaks."
+  },
+  {
+    "id": "h32",
+    "name": "Kalpa Castle Heritage Resort",
+    "region": "kinnaur",
+    "location": "Kalpa, Kinnaur",
+    "rating": 4.9,
+    "price": 14500,
+    "image": "/src/assets/kinnaur_valley.png",
+    "roomsAvailable": 3,
+    "totalRooms": 6,
+    "amenities": [
+      "WiFi",
+      "Historic Carvings",
+      "Restaurant",
+      "Mountain View",
+      "Fireplace"
+    ],
+    "description": "Experience royal hospitality in a boutique heritage hotel styled after Kinnauri wooden castles, overlooking the sacred Kinner Kailash peak."
+  },
+  {
+    "id": "h33",
+    "name": "Khajjiar Swiss Meadows Chalet",
+    "region": "chamba",
+    "location": "Khajjiar, Chamba",
+    "rating": 4.8,
+    "price": 11500,
+    "image": "/src/assets/khajjiar_meadows.png",
+    "roomsAvailable": 4,
+    "totalRooms": 8,
+    "amenities": [
+      "WiFi",
+      "Balcony",
+      "Restaurant",
+      "Mountain View",
+      "Horse Riding"
+    ],
+    "description": "An exquisite wood-and-stone chalet perched on the edge of the famous Khajjiar meadow, surrounded by towering deodar forests."
+  },
+  {
+    "id": "h34",
+    "name": "Bharmour Chaurasi View Homestay",
+    "region": "chamba",
+    "location": "Bharmour, Chamba",
+    "rating": 4.7,
+    "price": 4800,
+    "image": "/src/assets/chamba_temple.png",
+    "roomsAvailable": 3,
+    "totalRooms": 6,
+    "amenities": [
+      "Local Cuisine",
+      "Terrace Café",
+      "Historic Carvings",
+      "WiFi"
+    ],
+    "description": "A cozy, traditional homestay in Bharmour offering organic local meals and clear views of the ancient 7th-century Chaurasi stone temples."
+  },
+  {
+    "id": "h35",
+    "name": "Manikaran Spiritual Springs Lodge",
+    "region": "kasol",
+    "location": "Manikaran, Parvati Valley",
+    "rating": 4.7,
+    "price": 6200,
+    "image": "/src/assets/kasol_woods.png",
+    "roomsAvailable": 2,
+    "totalRooms": 5,
+    "amenities": [
+      "WiFi",
+      "Hot Springs",
+      "Restaurant",
+      "Riverside Views"
+    ],
+    "description": "Relax in a comfortable riverfront lodge featuring private hot spring baths and views of the rushing Parvati River and Manikaran Sahib."
+  },
+  {
+    "id": "h36",
+    "name": "Naggar Timber Heritage Castle",
+    "region": "manali",
+    "location": "Naggar, Kullu Valley",
+    "rating": 4.9,
+    "price": 13500,
+    "image": "/src/assets/hero_bg.png",
+    "roomsAvailable": 3,
+    "totalRooms": 6,
+    "amenities": [
+      "WiFi",
+      "Historic Carvings",
+      "Restaurant",
+      "Mountain View",
+      "Balcony"
+    ],
+    "description": "A beautifully preserved heritage boutique hotel constructed in classic Kathkuni architecture, showcasing traditional woodwork and panoramas of Kullu valley."
+  },
+  {
+    "id": "h37",
+    "name": "Nako Lake Side Homestay",
+    "region": "spiti",
+    "location": "Nako, Spiti Valley",
+    "rating": 4.8,
+    "price": 5800,
+    "image": "/src/assets/spiti_monastery.png",
+    "roomsAvailable": 4,
+    "totalRooms": 8,
+    "amenities": [
+      "Oxygen Kit",
+      "Local Cuisine",
+      "Lake View Balcony",
+      "Monastery Tour Guide"
+    ],
+    "description": "A peaceful mudhouse homestay situated right on the banks of Nako Lake, offering warm hospitality, butter tea, and Tibetan bread."
+  },
+  {
+    "id": "h38",
+    "name": "Prashar Lake Stargazing Camps",
+    "region": "mandi",
+    "location": "Prashar Lake, Mandi",
+    "rating": 4.8,
+    "price": 4500,
+    "image": "/src/assets/prashar_lake.png",
+    "roomsAvailable": 3,
+    "totalRooms": 8,
+    "amenities": [
+      "Campfire Site",
+      "Stargazing Deck",
+      "Meals Included",
+      "Trekking Guide"
+    ],
+    "description": "Luxury weather-resistant dome camps pitched on the ridges near the sacred Prashar Lake, offering crystal-clear night skies for stargazing."
+  },
+  {
+    "id": "h39",
+    "name": "Jalori Pass Trekker Cabin",
+    "region": "tirthan",
+    "location": "Shoja, Tirthan Valley",
+    "rating": 4.7,
+    "price": 6900,
+    "image": "/src/assets/jalori_pass.png",
+    "roomsAvailable": 2,
+    "totalRooms": 5,
+    "amenities": [
+      "WiFi",
+      "Wood Fireplace",
+      "Mountain View",
+      "Forest Trail Access"
+    ],
+    "description": "A rustic A-frame cabin located near Jalori Pass, providing an ideal base camp for treks to Serolsar Lake and Raghupur Fort."
+  },
+  {
+    "id": "h40",
+    "name": "Bir Billing Aero Glamping",
+    "region": "dharamshala",
+    "location": "Bir, Dharamshala",
+    "rating": 4.9,
+    "price": 9200,
+    "image": "/src/assets/paragliding.png",
+    "roomsAvailable": 4,
+    "totalRooms": 8,
+    "amenities": [
+      "WiFi",
+      "Adventure Guide",
+      "Mountain View",
+      "Campfire"
+    ],
+    "description": "Premium safari tents located near the paragliding landing site in Bir, featuring an evening campfire and guided tandem flying coordination."
+  }
+]

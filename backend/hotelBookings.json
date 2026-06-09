@@ -1,0 +1,67 @@
+[
+  {
+    "id": "1780729890762",
+    "hotelId": "h1",
+    "hotelName": "Wildflower Palace",
+    "name": "John Doe",
+    "email": "john@example.com",
+    "phone": "9876543210",
+    "checkIn": "2026-06-07",
+    "checkOut": "2026-06-09",
+    "guests": 2,
+    "totalPrice": 37000,
+    "createdAt": "2026-06-06T07:11:30.762Z"
+  },
+  {
+    "id": "1780907500522",
+    "hotelId": "h4",
+    "hotelName": "Tirthan River Whispers",
+    "name": "ayush",
+    "email": "adgfxghc437@gmail.com",
+    "phone": "8564826438",
+    "checkIn": "2026-06-09",
+    "checkOut": "2026-06-11",
+    "guests": 2,
+    "totalPrice": 22000,
+    "createdAt": "2026-06-08T08:31:40.522Z"
+  },
+  {
+    "id": "1780907784022",
+    "hotelId": "h5",
+    "hotelName": "Dhauladhar Vista Resort",
+    "name": "egaersgh",
+    "email": "dagdf234@gmail.com",
+    "phone": "9842382394",
+    "checkIn": "2026-06-09",
+    "checkOut": "2026-06-11",
+    "guests": 2,
+    "totalPrice": 17800,
+    "createdAt": "2026-06-08T08:36:24.023Z"
+  },
+  {
+    "id": "1780908328695",
+    "hotelId": "h6",
+    "hotelName": "Kinner Kailash Cottages",
+    "name": "ayush",
+    "email": "adgfxghc437@gmail.com",
+    "phone": "8564826438",
+    "checkIn": "2026-06-09",
+    "checkOut": "2026-06-11",
+    "guests": 2,
+    "totalPrice": 25000,
+    "createdAt": "2026-06-08T08:45:28.695Z"
+  },
+  {
+    "id": "1780908424214",
+    "hotelId": "h5",
+    "hotelName": "Dhauladhar Vista Resort",
+    "name": "ayush",
+    "email": "adgfxghc437@gmail.com",
+    "phone": "8564826438",
+    "checkIn": "2026-06-09",
+    "checkOut": "2026-06-11",
+    "guests": 2,
+    "totalPrice": 17800,
+    "createdAt": "2026-06-08T08:47:04.214Z"
+  }
+]
